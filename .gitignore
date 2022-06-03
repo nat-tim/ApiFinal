@@ -6,7 +6,7 @@
 /out
 /allure-results
 /.idea/
-/src/test/resources/login.properties
+
 test-output
 *.log
 *.inl
